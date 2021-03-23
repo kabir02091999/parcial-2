@@ -1,0 +1,33 @@
+*{
+
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    display: inline-block;
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+
+}
+
+.casilla{
+    display: inline-block;
+    height: 50px;
+    width: 50;
+    padding: auto;
+}
+font{
+
+    margin: auto;
+
+}
+ h3{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+
+} 
+
